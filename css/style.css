@@ -571,7 +571,8 @@ ul li {
 
 /* CUSTOM GLOBAL */
 .uk16 {
-  font-size: 16px;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .uk18 {
@@ -847,7 +848,7 @@ blockquote {
 }
 
 .text-primary {
-  color: #f7941d !important;
+  color: #ffffff !important;
 }
 .text-primary a {
   color: #f7941d;
