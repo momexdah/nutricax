@@ -756,6 +756,7 @@ blockquote {
 @media (max-width: 767px) {
   .bgi-hide-xs {
     background-image: none !important;
+    border: solid 1px black;
   }
 }
 /* OWL */
